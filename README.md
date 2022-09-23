@@ -1,5 +1,5 @@
 # DB_Registration_Unity
-Database in dbtest folder</br>
+Database in dbtest folder<br>
 Итоги:<br>
 Было развернуто тестовое локальное окружение:<br>
 Open Server, версия MySQL-5.7, версия PHP_7.1, Версия Apache_2.4.<br>
