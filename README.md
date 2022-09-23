@@ -16,10 +16,10 @@
         <td>
             <img src="Assets/Screens/lobby.PNG" alt="">
         </td>
-        <td width="50%">
-            Database in dbtest folder<br>
+        <td>
+            Database in dbtest folder
             Итоги:
- Было развернуто тестовое локальное окружение:
+Было развернуто тестовое локальное окружение:
 Open Server, версия MySQL-5.7, версия PHP_7.1, Версия Apache_2.4.
 База находится по пути http://dbtest/ (127.0.0.1), хранит в себе 2 файла, db отвечает за авторизацию к базе, файл logreg отвечает за логику обмена данными из c# в саму базу.
 
